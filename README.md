@@ -16,7 +16,7 @@ Navigate to any project directory and run:
 psc
 ```
 
-That's it! The CLI will automatically find and display all scripts from your `package.json`.
+The CLI will automatically find and display all scripts from your `package.json`.
 
 ## Example Output
 
