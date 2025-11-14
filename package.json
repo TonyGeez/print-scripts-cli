@@ -20,5 +20,5 @@
   "license": "MIT",
   "author": "TonyGeez",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "index.js"
 }
