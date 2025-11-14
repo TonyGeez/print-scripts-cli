@@ -1,0 +1,28 @@
+{
+  "name": "print-scripts-cli",
+  "version": "0.23.0",
+  "bin": {
+    "psc": "./index.js"
+  },
+  "description": "Tiny CLI tool to print packages.json scripts in a human readable way.",
+  "keywords": [
+    "scripts",
+    "package.json"
+  ],
+  "homepage": "https://github.com/TonyGeez/print-scripts-cli#readme",
+  "bugs": {
+    "url": "https://github.com/TonyGeez/print-scripts-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyGeez/print-scripts-cli.git"
+  },
+  "license": "MIT",
+  "author": "TonyGeez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
