@@ -5,7 +5,7 @@ Display package.json scripts in a beautiful, color-coded format.
 ## Installation
 
 ```bash
-npm install -g print-script-cli
+npm install -g print-scripts-cli
 ```
 
 ## Usage
